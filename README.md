@@ -29,6 +29,23 @@ significant cleaning before analysis could begin.
 
 ---
 
+## Project Approach
+
+This project had two distinct phases:
+
+**Phase 1 — Learning & Exploration:**
+Received four raw, uncleaned datasets and worked through data quality issues
+from scratch. This included corrupted price values, wrong data types, duplicate
+rows, missing values, and inconsistent formats. The purpose was to understand
+the data deeply and practice real-world cleaning techniques.
+
+**Phase 2 — Analysis:**
+Received quality-controlled versions of the same four datasets, ensuring the
+entire team worked from identical data. All key findings and visualizations
+in this project are based on the cleaned dataset.
+
+---
+
 ## Key Findings
 
 ### Discount Dependency
