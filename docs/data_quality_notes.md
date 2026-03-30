@@ -4,7 +4,7 @@
 
 ### 1. Corrupted Prices in Orderlines (unit_price)
 - **Problem:** 36,169 rows (12.3%) had values like "1.137.99" with multiple decimal points
-- **Decision:** - Corrupted price values in orderlines identified and removed — entire affected orders excluded to prevent misleading revenue calculations
+- **Decision:** Corrupted price values in orderlines identified and removed — entire affected orders excluded to prevent misleading revenue calculations
 
 ### 2. Corrupted Prices in Products (price)
 - **Problem:** 431 rows (2.23%) had prices with multiple decimal points
